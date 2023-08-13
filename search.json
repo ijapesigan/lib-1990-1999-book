@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "lib-1990-1999-book",
     "section": "",
-    "text": "Davison, A. C., & Hinkley, D. V. (1997). Bootstrap methods and\ntheir application. Cambridge University Press. https://doi.org/10.1017/CBO9780511802843"
+    "text": "Davison, A. C., & Hinkley, D. V. (1997). Bootstrap methods and\ntheir application. Cambridge University Press. https://doi.org/10.1017/CBO9780511802843\n\n\nEfron, B., & Tibshirani, R. J. (1993). An introduction to the\nbootstrap. Chapman & Hall. https://doi.org/10.1201/9780429246593\n\n\nSchafer, J. L. (1997). Analysis of incomplete multivariate\ndata. Chapman; Hall/CRC. https://doi.org/ 10.1201/9780367803025"
   },
   {
     "objectID": ".setup/quarto/tags/tags.html",
     "href": ".setup/quarto/tags/tags.html",
     "title": "Library Tags",
     "section": "",
-    "text": "key\nannotation\nkeywords\n\n\n\n\nDavison-Hinkley-1997\nbootstrap\nBootstrap (Statistics)"
+    "text": "key\nannotation\nkeywords\n\n\n\n\nDavison-Hinkley-1997\nDavison-Hinkley-1997\nbootstrap\nBootstrap (Statistics)\n\n\nEfron-Tibshirani-1993\nEfron-Tibshirani-1993\nNULL\nBootstrap (Statistics)\n\n\nSchafer-1997\nSchafer-1997\nLib-Missing-Data-Books\nNULL"
   },
   {
     "objectID": ".setup/quarto/session/session.html#session",
