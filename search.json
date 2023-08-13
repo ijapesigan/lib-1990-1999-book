@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "lib-1990-1999-book",
     "section": "",
-    "text": "Davison, A. C., & Hinkley, D. V. (1997). Bootstrap methods and\ntheir application. Cambridge University Press. https://doi.org/10.1017/CBO9780511802843\n\n\nLi, K. H., Raghunathan, T. E., & Rubin, D. B. (1991). Large-sample\nsignificance levels from multiply imputed data using moment-based\nstatistics and an F reference distribution.\nJournal of the American Statistical Association,\n86(416), 1065–1073. https://doi.org/10.1080/01621459.1991.10475152"
+    "text": "Davison, A. C., & Hinkley, D. V. (1997). Bootstrap methods and\ntheir application. Cambridge University Press. https://doi.org/10.1017/CBO9780511802843"
   },
   {
     "objectID": ".setup/quarto/tags/tags.html",
     "href": ".setup/quarto/tags/tags.html",
     "title": "Library Tags",
     "section": "",
-    "text": "key\nannotation\nkeywords\n\n\n\n\nDavison-Hinkley-1997\nDavison-Hinkley-1997\nbootstrap\nBootstrap (Statistics)\n\n\nLi-Raghunathan-Rubin-1991\nLi-Raghunathan-Rubin-1991\nmissing, missing-mi\nimputation, missing data, nonresponse, tests of significance"
+    "text": "key\nannotation\nkeywords\n\n\n\n\nDavison-Hinkley-1997\nbootstrap\nBootstrap (Statistics)"
   },
   {
     "objectID": ".setup/quarto/session/session.html#session",
