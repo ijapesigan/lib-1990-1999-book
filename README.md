@@ -1,7 +1,7 @@
 lib-1990-1999-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-01-20
+2024-01-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -24,6 +24,15 @@ Arbuckle, J. L. (1996). Full information estimation in the presence of
 incomplete data. In G. A. Marcoulides & R. E. Schumacker (Eds.),
 *Advanced structural equation modeling*.
 <https://doi.org/10.4324/9781315827414>
+
+</div>
+
+<div id="ref-Collins-Horn-1991" class="csl-entry">
+
+Collins, L. M., & Horn, J. L. (Eds.). (1991). *Best methods for the
+analysis of change: Recent advances, unanswered questions, future
+directions*. American Psychological Association.
+<https://doi.org/10.1037/10099-000>
 
 </div>
 
