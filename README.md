@@ -1,7 +1,7 @@
 lib-1990-1999-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-16
+2024-05-21
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-1990-1999-book/actions/workflows/shellc
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Arbuckle-1996" class="csl-entry">
 
@@ -88,6 +88,14 @@ Press.
 Harvey, A. C. (1990). *Forecasting, structural time series models and
 the Kalman filter*. Cambridge University Press.
 <https://doi.org/10.1017/cbo9781107049994>
+
+</div>
+
+<div id="ref-Kenny-Kashy-Bolger-1998" class="csl-entry">
+
+Kenny, D. A., Kashy, D. A., & Bolger, N. (1998). Data analysis in social
+psychology. In D. T. Gilbert, G. Lindzey, & S. T. Fiske (Eds.), *The
+handbook of social psychology* (4th ed., pp. 233–265). McGraw Hill.
 
 </div>
 
