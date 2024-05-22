@@ -117,7 +117,7 @@ child psychology: Volume 18*. Springer US.
 
 <div id="ref-Robinson-Riley-1999" class="csl-entry">
 
-Robinson, M. E., & Riley III, J. L. (1999). The role of emotion in pain.
+Robinson, M. E., & Riley, J. I. L. (1999). The role of emotion in pain.
 In R. J. Gatchel & D. C. Turk (Eds.), *Psychosocial factors in pain:
 Critical perspectives* (pp. 74–88). The Guilford Press.
 
