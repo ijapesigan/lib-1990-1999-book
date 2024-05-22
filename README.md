@@ -1,7 +1,7 @@
 lib-1990-1999-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-21
+2024-05-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -112,6 +112,14 @@ The MIT Press. <https://doi.org/10.7551/mitpress/6444.001.0001>
 Ollendick, T. H., & Prinz, R. J. (Eds.). (1996). *Advances in clinical
 child psychology: Volume 18*. Springer US.
 <https://doi.org/10.1007/978-1-4613-0323-7>
+
+</div>
+
+<div id="ref-Robinson-Riley-1999" class="csl-entry">
+
+Robinson, M. E., & Riley III, J. L. (1999). The role of emotion in pain.
+In R. J. Gatchel & D. C. Turk (Eds.), *Psychosocial factors in pain:
+Critical perspectives* (pp. 74–88). The Guilford Press.
 
 </div>
 
