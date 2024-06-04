@@ -1,7 +1,7 @@
 lib-1990-1999-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-22
+2024-06-04
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -63,6 +63,12 @@ application*. Cambridge University Press.
 
 Efron, B., & Tibshirani, R. J. (1993). *An introduction to the
 bootstrap*. Chapman & Hall. <https://doi.org/10.1201/9780429246593>
+
+</div>
+
+<div id="ref-Finkel-1995" class="csl-entry">
+
+Finkel, S. E. (1995). *Causal analysis with panel data*. Sage.
 
 </div>
 
